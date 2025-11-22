@@ -15,3 +15,4 @@
 # panner-dosa
 * Dosa Batter
 * Paneer
+* Masala Curry
