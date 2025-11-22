@@ -17,3 +17,4 @@
 * Paneer
 * Masala Curry
 * kaju paste
+* ghee
