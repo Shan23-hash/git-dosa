@@ -18,3 +18,4 @@
 * Masala Curry
 * kaju paste
 * ghee
+* Garam masala
